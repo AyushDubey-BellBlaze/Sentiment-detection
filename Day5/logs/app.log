@@ -1,2 +1,0 @@
-2026-04-01 23:07:38.354 | ERROR    | app:analyze_emotion:50 - string indices must be integers, not 'str'
-2026-04-01 23:48:22.946 | ERROR    | app:analyze_emotion:50 - string indices must be integers, not 'str'
